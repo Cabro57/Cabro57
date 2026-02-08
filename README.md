@@ -10,7 +10,7 @@
 - 🔭 Şu anda **harika bir açık kaynak projesi** üzerinde çalışıyorum.
 - 🌱 **React Native ve Go** öğreniyorum.
 - 💬 Bana **yazılım mimarisi** hakkında her şeyi sorabilirsin.
-- 📫 Bana ulaş: **email@adresin.com**
+- 📫 Bana ulaş: **iletisim@sametozen.me**
 
 ---
 
