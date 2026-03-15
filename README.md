@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Self-Taught+Developer;Backend+%7C+SaaS+Builder;Java+%7C+Python+%7C+Web+Development;Always+Building+Something+New" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cabro57&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
 ---
 
 # 👨‍💻 About Me
@@ -23,8 +19,6 @@ I enjoy **learning by building real projects.**
 
 ---
 
-# 🧠 Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
@@ -39,8 +33,6 @@ I enjoy **learning by building real projects.**
 
 ---
 
-# 📊 GitHub Stats
-
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Cabro57&show_icons=true&theme=tokyonight"/>
@@ -49,26 +41,14 @@ I enjoy **learning by building real projects.**
 
 </p>
 
----
-
-# 📈 Contribution Graph
-
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cabro57&theme=tokyo-night"/>
-
-</p>
-
----
-
-<p align="center">
-
+  
 <img src="https://raw.githubusercontent.com/Cabro57/Cabro57/output/snake.svg" alt="snake animation"/>
 
 </p>
 
 ---
 
-Copyright © 2026 Samet Özen. All rights reserved.
+Copyright © 2026 Samet. All rights reserved.
 
 Thanks for visiting my profile! ⭐️
