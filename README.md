@@ -1,92 +1,65 @@
-<h1 align="center">Samet Özen</h1>
-<h3 align="center">Self-taught Developer exploring Backend, SaaS and Software Architecture</h3>
+<h1 align="center">Hi 👋 I'm Samet Özen</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cabro57&label=Profile%20views&color=0e75b6&style=flat" alt="visitor counter"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Self-Taught+Developer;Backend+%7C+SaaS+Builder;Java+%7C+Python+%7C+Web+Development;Always+Building+Something+New" />
 </p>
 
 <p align="center">
-  Building tools, experimenting with technologies and learning by creating real projects.
+  <img src="https://komarev.com/ghpvc/?username=Cabro57&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- Born in **October 2001**
-- Started programming as a **self-taught developer**
-- First experiences with **Python** (desktop tools and small experiments)
-- Later moved into **Java desktop applications and Minecraft plugins**
-- Currently focused on **backend systems, SaaS development and modern web technologies**
-- Working on projects using **FastAPI** and exploring **Spring Boot**
+• Self-taught developer  
+• Started programming with **Python**  
+• Built **desktop tools and experiments**  
+• Later moved into **Java desktop apps and Minecraft plugins**  
+• Currently building **SaaS projects with FastAPI**  
+• Learning **Spring Boot and backend architecture**
 
----
-
-## 🚀 Currently Building
-
-- A **FastAPI based SaaS project**
-- Learning and experimenting with **Spring Boot**
-- Improving and modernizing older desktop projects
-- Exploring **AI-assisted development workflows**
+I enjoy **learning by building real projects.**
 
 ---
 
-## 🧠 Tech Stack
+# 🚀 Currently Building
+
+- FastAPI SaaS project  
+- Backend experiments  
+- Modernizing older desktop projects  
+- Exploring AI assisted development
+
+---
+
+# 🧠 Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
 
 ### Backend
 
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring)
 
 ### Frontend
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
 ### Tools
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge)
 
 ---
 
-## 📦 Projects
-
-Most of my repositories are **learning experiments and tools built during my journey**.
-
-You can explore them here:
-
-➡️ **All repositories**  
-https://github.com/Cabro57
-
-Projects include:
-
-- Desktop applications
-- Minecraft server plugins
-- Backend experiments
-- Web development projects
-- Early programming experiments
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -98,7 +71,7 @@ Projects include:
 
 ---
 
-## 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -108,12 +81,38 @@ Projects include:
 
 ---
 
-## 🎯 Long Term Goal
+# 🐍 Contribution Snake
 
-To become a developer capable of building **scalable backend systems, SaaS products and useful developer tools.**
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Cabro57/Cabro57/output/snake.svg" alt="snake animation"/>
+
+</p>
 
 ---
 
-## ⚡ Philosophy
+# 📦 Repositories
 
-> Learn by building. Improve by experimenting.
+Explore my work here:
+
+👉 https://github.com/Cabro57
+
+Projects include:
+
+- Desktop applications
+- Minecraft plugins
+- Backend experiments
+- Web tools
+- SaaS development
+
+---
+
+# 🎯 Long Term Goal
+
+To build **scalable backend systems, SaaS products and developer tools.**
+
+---
+
+# ⚡ Motto
+
+Learn by building.
