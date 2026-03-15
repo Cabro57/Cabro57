@@ -23,36 +23,16 @@ I enjoy **learning by building real projects.**
 
 ---
 
-# 🚀 Currently Building
-
-- FastAPI SaaS project  
-- Backend experiments  
-- Modernizing older desktop projects  
-- Exploring AI assisted development
-
----
-
 # 🧠 Tech Stack
-
-### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
-
-### Backend
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring)
-
-### Frontend
-
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-### Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge)
