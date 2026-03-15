@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Samet Özen</h1>
+<h1 align="center">Hi 👋 I'm Samet</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Self-Taught+Developer;Backend+%7C+SaaS+Builder;Java+%7C+Python+%7C+Web+Development;Always+Building+Something+New" />
@@ -61,8 +61,6 @@ I enjoy **learning by building real projects.**
 
 ---
 
-# 🐍 Contribution Snake
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Cabro57/Cabro57/output/snake.svg" alt="snake animation"/>
@@ -71,28 +69,6 @@ I enjoy **learning by building real projects.**
 
 ---
 
-# 📦 Repositories
+Copyright © 2026 Samet Özen. All rights reserved.
 
-Explore my work here:
-
-👉 https://github.com/Cabro57
-
-Projects include:
-
-- Desktop applications
-- Minecraft plugins
-- Backend experiments
-- Web tools
-- SaaS development
-
----
-
-# 🎯 Long Term Goal
-
-To build **scalable backend systems, SaaS products and developer tools.**
-
----
-
-# ⚡ Motto
-
-Learn by building.
+Thanks for visiting my profile! ⭐️
